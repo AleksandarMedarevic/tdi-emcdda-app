@@ -1,2 +1,19 @@
 # .gitignore ──────────────────────────────────────────────────────────────────
 
+# Konfiguracija sa internim nazivima kolona
+config.R
+
+# R putanja
+r_putanja
+
+# OS fajlovi
+.DS_Store
+Thumbs.db
+
+# R session fajlovi
+.Rhistory
+.Rshistory
+*.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
