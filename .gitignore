@@ -4,7 +4,7 @@
 config.R
 
 # R putanja
-r_putanja
+r_putanja.txt
 
 # OS fajlovi
 .DS_Store
